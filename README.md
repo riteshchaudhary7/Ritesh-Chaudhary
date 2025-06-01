@@ -1,4 +1,4 @@
 # Ritesh-Chaudhary
 This is my first Git repository.
-<B> 
+<b> 
 i am from sundhara.
