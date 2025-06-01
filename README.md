@@ -1,4 +1,4 @@
 # Ritesh-Chaudhary
 This is my first Git repository.
-<br>
-Author - Ritesh Chaudhary.
+<B> 
+i am from sundhara.
